@@ -1,0 +1,7 @@
+id = "yorumi"
+name = "Yorumi Theme"
+description = "get yorumi, a calming deep sea colorscheme for developers."
+version = "0.1.0"
+schema_version = 1
+authors = ["Yorumi <releases@yorumicolors.cc>"]
+repository = "https://github.com/yorumicolors/zed"
