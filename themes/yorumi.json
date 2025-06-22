@@ -254,7 +254,7 @@
         "text.muted": "#4F5464",
         "text.placeholder": "#4F5464",
         "text.disabled": "#BDBFCB",
-        "text.accent": "#A6A8BA",
+        "text.accent": "#C6DFEC",
 
         "icon": null,
         "icon.muted": null,
@@ -268,7 +268,7 @@
         "tab_bar.background": "#BDBFCB",
         "tab.inactive_background": "#BDBFCB",
         "tab.active_background": "#BDBFCB",
-        "search.match_background": "#BDBFCB",
+        "search.match_background": "#E4D8B4",
         "panel.background": "#BDBFCB",
         "panel.focused_border": "#BDBFCB",
         "pane.focused_border": null,
@@ -473,7 +473,7 @@
         "text.muted": "#4F5464",
         "text.placeholder": "#4F5464",
         "text.disabled": "#060914",
-        "text.accent": "#A6A8BA",
+        "text.accent": "#C6DFEC",
 
         "icon": null,
         "icon.muted": null,
